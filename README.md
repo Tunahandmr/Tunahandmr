@@ -17,7 +17,7 @@
 
 | Gmail | Linkedin | Medium | Youtube |
 | :-: | :-: | :-: | :-: |
-|<p align="left"> <a href="mailto:tunahandemir818@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" align="center" alt="Gmail"/></a> |<a href="https://www.linkedin.com/in/tunahan-demir-9950ba226/"><img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG12.png" width="40" align="center" alt="LinkedIn"/></a></p>|<a href="https://medium.com/@tunahandmr"><img src="https://user-images.githubusercontent.com/100168989/225086653-29672640-2a97-4f97-be2a-9873cd04b8a8.png" width="40" align="center" alt="Medium"/></a></p>|<a href="https://www.youtube.com/channel/UCFQfdXe7WNmHw2SBlFamMNw"><img src="https://user-images.githubusercontent.com/100168989/225087215-c2e3be68-0ef8-4741-9b7a-4ff22cf77ff1.png" width="40" align="center" alt="Youtube"/></a></p>|
+|<p align="left"> <a href="mailto:tunahandemir818@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" align="center" alt="Gmail"/></a> |<a href="https://www.linkedin.com/in/tunahanndemir/"><img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG12.png" width="40" align="center" alt="LinkedIn"/></a></p>|<a href="https://medium.com/@tunahandmr"><img src="https://user-images.githubusercontent.com/100168989/225086653-29672640-2a97-4f97-be2a-9873cd04b8a8.png" width="40" align="center" alt="Medium"/></a></p>|<a href="https://www.youtube.com/channel/UCFQfdXe7WNmHw2SBlFamMNw"><img src="https://user-images.githubusercontent.com/100168989/225087215-c2e3be68-0ef8-4741-9b7a-4ff22cf77ff1.png" width="40" align="center" alt="Youtube"/></a></p>|
 
 
 <h2 align="left">Languages and Tools:</h2>
