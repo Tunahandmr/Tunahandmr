@@ -22,6 +22,6 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-| Android | Firebase | Java | Kotlin | XD |
-| :-: | :-: | :-: | :-: | :-: |
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|
+| Android | Firebase | Java | Kotlin |
+| :-: | :-: | :-: | :-: |
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin" width="40" height="40"/>|
